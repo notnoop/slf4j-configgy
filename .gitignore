@@ -1,0 +1,21 @@
+# Maven
+.settings
+target
+
+# Binary files
+*.jar
+*.class
+
+# Eclipse
+.project
+.classpath
+.metadata
+.scala_dependencies
+
+# random files
+*~
+.#*
+TAGS
+tags
+*.swp
+
